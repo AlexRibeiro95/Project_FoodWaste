@@ -42,6 +42,20 @@
 **EDA for the 1st hypothesis**
 
 ![Data Visualization](EDA/EDA_visualizations/Countplot1.png)
+![Data Visualization](EDA/EDA_visualizations/Stackedplot1.png)
+![Data Visualization](EDA/EDA_visualizations/pivottable2.png)
+
+**EDA for the 2nd hypothesis**
+
+![Data Visualization](EDA/EDA_visualizations/plotyexpress2.png)
+![Data Visualization](EDA/EDA_visualizations/heatmap2.png)
+![Data Visualization](EDA/EDA_visualizations/Sunburstt2.png)
+
+**EDA for the 3rd hypothesis**
+
+![Data Visualization](EDA/EDA_visualizations/barpllot3.png)
+![Data Visualization](EDA/EDA_visualizations/Barplotw:mean3.png)
+
 
 ### Datasets used and useful links:
 
