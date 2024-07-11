@@ -27,7 +27,7 @@
 - Retail and wholesales market activities are the value chain stage that most contribute to food loss and corresponding emissions;
 
 **2️⃣ Hypothesis**
-- Different commodities experience varying loss percentages across different stages of the food supply chain, indicating potential inefficiencies specific to each stage;
+- Different commodities have loss percentages across different stages, indicating potential inefficiencies specific to each stage;
 
 **3️⃣ Hypothesis**
 - Emissions reduction potential by targeting specific supply chain stages-
