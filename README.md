@@ -1,4 +1,4 @@
-# The Impact of Food Waste and Emissions on the Environment
+# 🌱 The Impact of Food Waste and Emissions on the Environment 
 
 ## Table of Contents
 
@@ -24,20 +24,20 @@
 - The main objective is to identify critical stages in the food chain where interventions can significantly reduce waste and emissions, thereby enhancing sustainability practices within the industry.
 
 
-### Hypotheses
+## :bulb: Hypotheses
 
-**1st Hypothesis**
+**1️⃣ Hypothesis**
 - Retail and wholesales market activities are the value chain stage that most contribute to food loss and corresponding emissions;
 
-**2nd Hypothesis**
+**2️⃣ Hypothesis**
 - Different commodities experience varying loss percentages across different stages of the food supply chain, indicating potential inefficiencies specific to each stage;
 
-**3rd Hypothesis**
+**3️⃣ Hypothesis**
 - Emissions reduction potential by targeting specific supply chain stages-
 
 
 
-### Visualizations:
+## 📈 Visualizations:
 
 
 
@@ -64,7 +64,7 @@
 
 
 
-### Datasets used and useful links:
+### 📲 Datasets used and useful links:
 
 - [Food Waste FAO dataset](https://www.fao.org/platform-food-loss-waste/flw-data/en/)
 - [Emissions FAO dataset](https://www.fao.org/faostat/en/#data/GT)
