@@ -33,12 +33,15 @@
 - Different commodities experience varying loss percentages across different stages of the food supply chain, indicating potential inefficiencies specific to each stage;
 
 **3rd Hypothesis**
-- Emissions reduction potential by targeting specific supply chain stages;
+- Emissions reduction potential by targeting specific supply chain stages-
 
 
 
-This project utilizes Python and several libraries to analyze and visualize crucial stages of food supply that contribute significantly to emissions. We focus on the top 10 countries with the highest food-related emissions and provide comparative insights against global averages.
+### Visualizations:
 
+**EDA for the 1st hypothesis**
+
+![Data Visualization](EDA/EDA_visualizations/Countplot1.png)
 
 ### Datasets used and useful links:
 
