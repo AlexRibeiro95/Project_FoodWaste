@@ -18,6 +18,60 @@ An in-depth analysis of food waste contributions to global emissions, exploring 
 ## Project Overview
 This project utilizes Python and several libraries to analyze and visualize crucial stages of food supply that contribute significantly to emissions. We focus on the top 10 countries with the highest food-related emissions and provide comparative insights against global averages.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Installation
 
 To set up this project locally, follow these steps:
