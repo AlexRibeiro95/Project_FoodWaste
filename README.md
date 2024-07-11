@@ -1,4 +1,4 @@
-# 🌱 The Impact of Food Waste and Emissions on the Environment 
+# The Impact of Food Waste and Emissions on the Environment 🌱 
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@
 
 
 
-## 📈 Visualizations:
+## Visualizations 📈 
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-### 📲 Datasets used and useful links:
+### Datasets used and useful links 📲
 
 - [Food Waste FAO dataset](https://www.fao.org/platform-food-loss-waste/flw-data/en/)
 - [Emissions FAO dataset](https://www.fao.org/faostat/en/#data/GT)
