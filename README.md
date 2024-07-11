@@ -6,11 +6,8 @@
 - [Introduction](#introduction)
 - [Hypotheses](#hypotheses)
 - [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 - [Datasets used and useful links](#datasets-used-and-useful-links)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ### Project Context:
@@ -41,7 +38,7 @@
 
 
 
-**EDA for the 1st hypothesis**
+### **EDA - 1️⃣ Hypothesis**
 
 ![Data Visualization](EDA/EDA_visualizations/Countplot1.png)
 ![Data Visualization](EDA/EDA_visualizations/Stackedplot1.png)
@@ -49,7 +46,7 @@
 
 
 
-**EDA for the 2nd hypothesis**
+### **EDA - 2️⃣ Hypothesis**
 
 ![Data Visualization](EDA/EDA_visualizations/plotyexpress2.png)
 ![Data Visualization](EDA/EDA_visualizations/heatmap2.png)
@@ -57,7 +54,7 @@
 
 
 
-**EDA for the 3rd hypothesis**
+### **EDA - 3️⃣ hypothesis**
 
 ![Data Visualization](EDA/EDA_visualizations/barpllot3.png)
 ![Data Visualization](EDA/EDA_visualizations/Barplotw:mean3.png)
