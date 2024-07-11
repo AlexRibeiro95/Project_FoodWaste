@@ -1,4 +1,4 @@
-# The Impact of Food Waste and Emissions on the Environment 🌱 
+# The Impact of Food Waste and Emissions on the Environment :herb:
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@
 - The main objective is to identify critical stages in the food chain where interventions can significantly reduce waste and emissions, thereby enhancing sustainability practices within the industry.
 
 
-## :bulb: Hypotheses
+## Hypotheses :bulb:
 
 **1️⃣ Hypothesis**
 - Retail and wholesales market activities are the value chain stage that most contribute to food loss and corresponding emissions;
@@ -34,7 +34,7 @@
 
 
 
-## Visualizations 📈 
+## Visualizations :chart_with_upwards_trend: 
 
 
 
@@ -61,14 +61,14 @@
 
 
 
-### Datasets used and useful links 📲
+### Datasets used and useful links 
 
 - [Food Waste FAO dataset](https://www.fao.org/platform-food-loss-waste/flw-data/en/)
 - [Emissions FAO dataset](https://www.fao.org/faostat/en/#data/GT)
 - [Notion Project Management](https://cactus-burrito-0dd.notion.site/The-Impact-of-Food-Waste-and-Emissions-on-the-Environment-aadb3a283d5743d09389e524ca726f27)
 - [Project Presentation Google Slides](https://docs.google.com/presentation/d/19tk_YzKpnB7Ru_O-JEV524FCq9pPl2yMXOzMO9t66sM/edit?usp=sharing)
-- [Alexandre Ribeiro Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
-- [José Pedro Brandão Linkedin](https://www.linkedin.com/in/jos%C3%A9-pedro-barbosa-brand%C3%A3o-663a172b6/)
+- [Alexandre Ribeiro Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/) :man_cook:
+- [José Pedro Brandão Linkedin](https://www.linkedin.com/in/jos%C3%A9-pedro-barbosa-brand%C3%A3o-663a172b6/) :man_cook:
 
 
 
