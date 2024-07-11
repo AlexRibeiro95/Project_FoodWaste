@@ -39,11 +39,15 @@
 
 ### Visualizations:
 
+
+
 **EDA for the 1st hypothesis**
 
 ![Data Visualization](EDA/EDA_visualizations/Countplot1.png)
 ![Data Visualization](EDA/EDA_visualizations/Stackedplot1.png)
 ![Data Visualization](EDA/EDA_visualizations/pivottable2.png)
+
+
 
 **EDA for the 2nd hypothesis**
 
@@ -51,10 +55,13 @@
 ![Data Visualization](EDA/EDA_visualizations/heatmap2.png)
 ![Data Visualization](EDA/EDA_visualizations/Sunburstt2.png)
 
+
+
 **EDA for the 3rd hypothesis**
 
 ![Data Visualization](EDA/EDA_visualizations/barpllot3.png)
 ![Data Visualization](EDA/EDA_visualizations/Barplotw:mean3.png)
+
 
 
 ### Datasets used and useful links:
@@ -63,10 +70,8 @@
 - [Emissions FAO dataset](https://www.fao.org/faostat/en/#data/GT)
 - [Notion Project Management](https://cactus-burrito-0dd.notion.site/The-Impact-of-Food-Waste-and-Emissions-on-the-Environment-aadb3a283d5743d09389e524ca726f27)
 - [Project Presentation Google Slides](https://docs.google.com/presentation/d/19tk_YzKpnB7Ru_O-JEV524FCq9pPl2yMXOzMO9t66sM/edit?usp=sharing)
-
-
-
-
+- [Alexandre Ribeiro Linkedin](https://www.linkedin.com/in/alexandre-ribeiro-264445279/)
+- [José Pedro Brandão Linkedin](https://www.linkedin.com/in/jos%C3%A9-pedro-barbosa-brand%C3%A3o-663a172b6/)
 
 
 
