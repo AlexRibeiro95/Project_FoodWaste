@@ -1,16 +1,15 @@
-# Food-Waste-and-Sustainability
-
-## Project Title: The Impact of Food Waste and Emissions on the Environment
+# The Impact of Food Waste and Emissions on the Environment
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+
+- [Project Context](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Visualizations](#visualizations)
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-- [Contact](#contact)
+- [Datasets used and useful links](#datasets-used-and-useful-links)
 - [Acknowledgments](#acknowledgments)
 
 
