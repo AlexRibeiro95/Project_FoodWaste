@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Project Context](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Introduction](#introduction)
+- [Hypotheses](#hypotheses)
 - [Visualizations](#visualizations)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -19,14 +19,24 @@
 
 ### Introduction:
 
-- This project aims to tackle the critical issue of food waste and emissions throughout the food supply chain. By addressing food waste, we can make significant strides in reducing environmental impact, conserving resources, improving food security and fighting worldwide hunger. Our aim is to identify critical stages in the food chain where interventions can significantly reduce waste and emissions, thereby enhancing sustainability practices within the industry.
+- This project aims to tackle the critical issue of food waste and emissions throughout the food supply chain. By addressing food waste, we can make significant strides in reducing environmental impact, conserving resources, improving food security and fighting worldwide hunger.
 
-  
-- An in-depth analysis of food waste contributions to global emissions, exploring data across various countries and stages of the food supply chain. This project aims to provide actionable insights and encourage sustainable practices.
-
+- The main objective is to identify critical stages in the food chain where interventions can significantly reduce waste and emissions, thereby enhancing sustainability practices within the industry.
 
 
-## Project Overview
+### Hypotheses
+
+** 1st Hypothesis **
+- Retail and wholesales market activities are the value chain stage that most contribute to food loss and corresponding emissions;
+
+** 2nd Hypothesis **
+- Different commodities experience varying loss percentages across different stages of the food supply chain, indicating potential inefficiencies specific to each stage;
+
+** 3rd Hypothesis **
+- Emissions reduction potential by targeting specific supply chain stages;
+
+
+
 This project utilizes Python and several libraries to analyze and visualize crucial stages of food supply that contribute significantly to emissions. We focus on the top 10 countries with the highest food-related emissions and provide comparative insights against global averages.
 
 
@@ -86,15 +96,3 @@ This project utilizes Python and several libraries to analyze and visualize cruc
 
 
 
-
-
-## Installation
-
-To set up this project locally, follow these steps:
-
-```bash
-git clone https://github.com/yourusername/food-waste-and-sustainability
-cd food-waste-and-sustainability
-conda create --name myenv python=3.8
-conda activate myenv
-pip install -r requirements.txt
