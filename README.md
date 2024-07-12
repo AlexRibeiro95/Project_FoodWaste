@@ -42,9 +42,9 @@
 
 **Variables used:**
 
--loss_percentage;
--food_supply_stage;
--emissions_quantity.
+- loss_percentage;
+- food_supply_stage;
+- emissions_quantity.
 
 
 ![Data Visualization](EDA/EDA_visualizations/Countplot1.png)
@@ -62,9 +62,9 @@
 
 **Variables used:**
 
--loss_percentage;
--food_supply_stage; 
--commodity.
+- loss_percentage;
+- food_supply_stage; 
+- commodity.
 
 
 ![Data Visualization](EDA/EDA_visualizations/plotyexpress2.png)
@@ -82,13 +82,13 @@
 
 **Variables used:**
 
--country (top10, by avg emission);
--food_supply_stage;
--emissions_quantity (mean).
+- country (top10, by avg emission);
+- food_supply_stage;
+- emissions_quantity (mean).
 
 
 ![Data Visualization](EDA/EDA_visualizations/barpllot3.png)
-*Bar plot with Mean Emissions er Crucial Stage*
+*Bar plot with Mean Emissions per Crucial Stage*
 
 ![Data Visualization](EDA/EDA_visualizations/Barplotw:mean3.png)
 *Countplot with the total Emissions per Stage and Country, with the means of each Stage to give depth to the analysis*
