@@ -101,7 +101,7 @@
 - [Food Waste FAO dataset](https://www.fao.org/platform-food-loss-waste/flw-data/en/)
 - [Emissions FAO dataset](https://www.fao.org/faostat/en/#data/GT)
 
-**Kaban and presentation:**
+**Kaban and Presentation:**
 - [Notion Project Management](https://cactus-burrito-0dd.notion.site/The-Impact-of-Food-Waste-and-Emissions-on-the-Environment-aadb3a283d5743d09389e524ca726f27)
 - [Project Presentation Google Slides](https://docs.google.com/presentation/d/19tk_YzKpnB7Ru_O-JEV524FCq9pPl2yMXOzMO9t66sM/edit?usp=sharing)
 
